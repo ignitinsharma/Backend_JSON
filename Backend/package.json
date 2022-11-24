@@ -1,0 +1,23 @@
+{
+  "name": "backend_json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ignitinsharma/backend_JSON.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ignitinsharma/backend_JSON/issues"
+  },
+  "homepage": "https://github.com/ignitinsharma/backend_JSON#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
