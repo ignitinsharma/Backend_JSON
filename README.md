@@ -1,7 +1,7 @@
 # Backend JSON API
 
 ```
-https://fathomless-everglades-39788.herokuapp.com/api
+https://backend-by-nitin.onrender.com/api/
 
 ```
 
@@ -9,7 +9,7 @@ https://fathomless-everglades-39788.herokuapp.com/api
 For Movies
 
 ```
-https://fathomless-everglades-39788.herokuapp.com/api/movies
+https://backend-by-nitin.onrender.com/api/movies
 
 ```
 
@@ -17,7 +17,7 @@ https://fathomless-everglades-39788.herokuapp.com/api/movies
 For Car Images
 
 ```
-https://fathomless-everglades-39788.herokuapp.com/api/images
+https://backend-by-nitin.onrender.com/api/images
 
 ```
 
