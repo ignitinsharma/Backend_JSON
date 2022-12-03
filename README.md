@@ -23,5 +23,13 @@ https://backend-by-nitin.onrender.com/api/images
 
 ```
 
+For Peoducts
 
-😁 Moj karo...
+```
+
+https://backendjson-production.up.railway.app/api/products
+
+```
+
+
+😁 ...
