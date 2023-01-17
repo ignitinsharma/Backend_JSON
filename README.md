@@ -22,6 +22,7 @@ For Car Images
 ```
 https://backend-by-nitin.onrender.com/api/images
 https://backendjson-production.up.railway.app/api/images
+https://backend-by-nitin.onrender.com/api/cars
 
 ```
 
