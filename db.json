@@ -1271,15 +1271,16 @@
       "fueltype": "Diesel"
     },
     {
-      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/VW_Corrado_-_standard.jpg/400px-VW_Corrado_-_standard.jpg",
-      "title": "Volkswagen Corrado",
+      "image": "https://cdni.autocarindia.com/Utils/ImageResizer.ashx?n=https://cdni.autocarindia.com/Reviews/VW-Polo-rear.jpg&c=0",
+      "title": "Volkswagen Polo",
       "start_production": 1988,
       "class": "Sport compact",
-      "price": 2000,
+      "price": 2500,
       "transmission": "Manual",
-      "seats": "2 Seats",
+      "seats": "4 Seats",
       "rating": 4.5,
-      "fueltype": "Petrol"
+      "fueltype": "Petrol",
+      "type": "Hatchback"
     },
     {
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Mercedes_R_350_CDI_4MATIC_Lang_%28V251%29_Facelift_front_20101017.jpg/400px-Mercedes_R_350_CDI_4MATIC_Lang_%28V251%29_Facelift_front_20101017.jpg",
