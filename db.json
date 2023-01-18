@@ -1000,7 +1000,7 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/2015_Mazda_MX-5_ND_2.0_SKYACTIV-G_160_i-ELOOP_Rubinrot-Metallic_Vorderansicht.jpg/400px-2015_Mazda_MX-5_ND_2.0_SKYACTIV-G_160_i-ELOOP_Rubinrot-Metallic_Vorderansicht.jpg",
       "title": "Mazda MX-5",
       "start_production": 1989,
-      "class": "Sports car Roadster",
+      "class": "Sports",
       "price": 2000,
       "transmission": "Manual",
       "seats": "2 Seats",
@@ -1026,7 +1026,8 @@
       "transmission": "Manual",
       "seats": "2 Seats",
       "rating": 4.5,
-      "fuel-type": "Petrol"
+      "fuel-type": "Petrol",
+      "type": "SUV"
     },
     {
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Vintage_car_at_the_Wirral_Bus_%26_Tram_Show_-_DSC03336.JPG/400px-Vintage_car_at_the_Wirral_Bus_%26_Tram_Show_-_DSC03336.JPG",
@@ -1218,7 +1219,7 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/2000_TVR_Tuscan_4.0_Speed_Six_by_The_Car_Spy.jpg/400px-2000_TVR_Tuscan_4.0_Speed_Six_by_The_Car_Spy.jpg",
       "title": "TVR Tuscan Speed Six",
       "start_production": 1999,
-      "class": "Sports car",
+      "class": "Sports",
       "price": 2000,
       "transmission": "Manual",
       "seats": "2 Seats",
@@ -1304,7 +1305,7 @@
     {
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Audi_TT_Coup%C3%A9_2.0_TFSI_quattro_S-line_%288S%29_%E2%80%93_Frontansicht%2C_3._April_2015%2C_D%C3%BCsseldorf.jpg/400px-Audi_TT_Coup%C3%A9_2.0_TFSI_quattro_S-line_%288S%29_%E2%80%93_Frontansicht%2C_3._April_2015%2C_D%C3%BCsseldorf.jpg",
       "title": "Audi TT",
-      "class": "Sport compact Sports car",
+      "class": "Sport",
       "price": 2000,
       "transmission": "Manual",
       "seats": "2 Seats",
@@ -1320,13 +1321,14 @@
       "transmission": "Manual",
       "seats": "2 Seats",
       "rating": 4.5,
-      "fuel-type": "Diesel"
+      "fuel-type": "Diesel",
+      "type": "SUV"
     },
     {
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Red92VR4rear.jpg/400px-Red92VR4rear.jpg",
       "title": "Mitsubishi GTO",
       "start_production": 1990,
-      "class": "Sports car, grand tourer",
+      "class": "Sports",
       "price": 2200,
       "transmission": "Auto",
       "seats": "2 Seats",
@@ -1404,7 +1406,7 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Nissan350Z-01.jpg/400px-Nissan350Z-01.jpg",
       "title": "Nissan 350Z",
       "start_production": 2002,
-      "class": "Sports car",
+      "class": "Sports",
       "price": 2000,
       "transmission": "Manual",
       "seats": "2 Seats",
@@ -1420,7 +1422,8 @@
       "transmission": "Auto",
       "seats": "4 Seats",
       "rating": 3.9,
-      "fuel-type": "Petrol"
+      "fuel-type": "Petrol",
+      "type": "SUV"
     },
     {
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Cadillac_XLR_2006.jpg/400px-Cadillac_XLR_2006.jpg",
@@ -1432,6 +1435,66 @@
       "seats": "4 Seats",
       "rating": 4.2,
       "fuel-type": "Diesel"
+    },
+    {
+      "image": "https://cdni.autocarindia.com/Utils/ImageResizer.ashx?n=https://cdni.autocarindia.com/ExtraImages/20220622122527_bmw_m3_touring_front_tracking.jpg&w=700&q=90&c=1",
+      "title": "BMW M3",
+      "start_production": 2003,
+      "class": "Luxury roadster",
+      "price": 2000,
+      "transmission": "Auto",
+      "seats": "4 Seats",
+      "rating": 5,
+      "fuel-type": "Diesel",
+      "type": "Sedan"
+    },
+    {
+      "image": "https://cdn.zeebiz.com/sites/default/files/2022/08/12/194674-cq5damresizedimg1680largetime1660056118184.jpg",
+      "title": "BMW M4",
+      "start_production": 2003,
+      "class": "Sports",
+      "price": 2000,
+      "transmission": "Auto",
+      "seats": "2 Seats",
+      "rating": 5,
+      "fuel-type": "Diesel",
+      "type": "Sedan"
+    },
+    {
+      "image": "https://cdn.zeebiz.com/sites/default/files/2022/08/12/194674-cq5damresizedimg1680largetime1660056118184.jpg",
+      "title": "BMW M4",
+      "start_production": 2003,
+      "class": "Sports",
+      "price": 20000,
+      "transmission": "Auto",
+      "seats": "2 Seats",
+      "rating": 5,
+      "fuel-type": "Diesel",
+      "type": "Sedan"
+    },
+    {
+      "image": "https://cdn.zeebiz.com/sites/default/files/2022/08/12/194674-cq5damresizedimg1680largetime1660056118184.jpg",
+      "title": "BMW M4",
+      "start_production": 2003,
+      "class": "Sports",
+      "price": 22000,
+      "transmission": "Auto",
+      "seats": "2 Seats",
+      "rating": 5,
+      "fuel-type": "Diesel",
+      "type": "Sedan"
+    },
+    {
+      "image": "https://www.businessinsider.in/photo/87811850/mercedes-benz-india-launches-new-luxury-hatchback-priced-at-80-lakh.jpg?imgsize=865560",
+      "title": "Mercedes-Benz",
+      "start_production": 2003,
+      "class": "Sports",
+      "price": 22000,
+      "transmission": "Auto",
+      "seats": "2 Seats",
+      "rating": 5,
+      "fuel-type": "Diesel",
+      "type": "Hatchback"
     }
   ],
   "sneakers": [
