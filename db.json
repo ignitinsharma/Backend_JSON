@@ -1005,7 +1005,7 @@
       "transmission": "Manual",
       "seats": "2 Seats",
       "rating": 4.5,
-      "fuel-type": "Petrol"
+      "fueltype": "Petrol"
     },
     {
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/VW_Kuebelwagen_1.jpg/400px-VW_Kuebelwagen_1.jpg",
@@ -1015,7 +1015,7 @@
       "transmission": "Auto",
       "seats": "4 Seats",
       "rating": 5,
-      "fuel-type": "Petrol"
+      "fueltype": "Petrol"
     },
     {
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/2014_Porsche_Cayenne_%2892A_MY14%29_GTS_wagon_%282015-08-07%29_01.jpg/400px-2014_Porsche_Cayenne_%2892A_MY14%29_GTS_wagon_%282015-08-07%29_01.jpg",
@@ -1026,7 +1026,7 @@
       "transmission": "Manual",
       "seats": "2 Seats",
       "rating": 4.5,
-      "fuel-type": "Petrol",
+      "fueltype": "Petrol",
       "type": "SUV"
     },
     {
@@ -1038,7 +1038,7 @@
       "transmission": "Auto",
       "seats": "2 Seats",
       "rating": 3,
-      "fuel-type": "Diesel"
+      "fueltype": "Diesel"
     },
     {
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Dynamixion_car_by_Buckminster_Fuller_1933_%28side_views%29.jpg/400px-Dynamixion_car_by_Buckminster_Fuller_1933_%28side_views%29.jpg",
@@ -1049,7 +1049,7 @@
       "transmission": "Manual",
       "seats": "2 Seats",
       "rating": 4.5,
-      "fuel-type": "Petrol"
+      "fueltype": "Petrol"
     },
     {
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Ford_Crown_Victoria_LX.jpg/400px-Ford_Crown_Victoria_LX.jpg",
@@ -1060,7 +1060,7 @@
       "transmission": "Manual",
       "seats": "4 Seats",
       "rating": 4.6,
-      "fuel-type": "Diesel"
+      "fueltype": "Diesel"
     },
     {
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Plymouth_Superbird.jpg/400px-Plymouth_Superbird.jpg",
@@ -1071,7 +1071,7 @@
       "transmission": "Auto",
       "seats": "4 Seats",
       "rating": 4.5,
-      "fuel-type": "Diesel"
+      "fueltype": "Diesel"
     },
     {
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/2nd-Saab-9000-hatch.jpg/400px-2nd-Saab-9000-hatch.jpg",
@@ -1082,7 +1082,7 @@
       "transmission": "Manual",
       "seats": "4 Seats",
       "rating": 3.1,
-      "fuel-type": "Petrol"
+      "fueltype": "Petrol"
     },
     {
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/2003-2005_Pontiac_Sunfire.jpg/400px-2003-2005_Pontiac_Sunfire.jpg",
@@ -1093,7 +1093,7 @@
       "transmission": "Auto",
       "seats": "4 Seats",
       "rating": 5,
-      "fuel-type": "Diesel"
+      "fueltype": "Diesel"
     },
     {
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Jaguar_X-Type_Estate_front_20080731.jpg/400px-Jaguar_X-Type_Estate_front_20080731.jpg",
@@ -1104,7 +1104,7 @@
       "transmission": "Manual",
       "seats": "2 Seats",
       "rating": 4.5,
-      "fuel-type": "Diesel"
+      "fueltype": "Diesel"
     },
     {
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/VW_Phaton_%282._Facelift%29_%E2%80%93_Frontansicht%2C_7._Mai_2011%2C_D%C3%BCsseldorf.jpg/400px-VW_Phaton_%282._Facelift%29_%E2%80%93_Frontansicht%2C_7._Mai_2011%2C_D%C3%BCsseldorf.jpg",
@@ -1115,7 +1115,7 @@
       "transmission": "Auto",
       "seats": "4 Seats",
       "rating": 2,
-      "fuel-type": "Petrol"
+      "fueltype": "Petrol"
     },
     {
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Pontiac_G6.jpg/400px-Pontiac_G6.jpg",
@@ -1126,7 +1126,7 @@
       "transmission": "Manual",
       "seats": "2 Seats",
       "rating": 4.5,
-      "fuel-type": "Petrol"
+      "fueltype": "Petrol"
     },
     {
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Ford500a.JPG/400px-Ford500a.JPG",
@@ -1137,7 +1137,7 @@
       "transmission": "Manual",
       "seats": "2 Seats",
       "rating": 4.5,
-      "fuel-type": "Petrol"
+      "fueltype": "Petrol"
     },
     {
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/PontiacSolstice.jpg/400px-PontiacSolstice.jpg",
@@ -1148,7 +1148,7 @@
       "transmission": "Manual",
       "seats": "2 Seats",
       "rating": 4.5,
-      "fuel-type": "Petrol"
+      "fueltype": "Petrol"
     },
     {
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Fiat_tipo_f.jpg/400px-Fiat_tipo_f.jpg",
@@ -1159,7 +1159,7 @@
       "transmission": "Manual",
       "seats": "2 Seats",
       "rating": 5,
-      "fuel-type": "Petrol"
+      "fueltype": "Petrol"
     },
     {
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/1985-89_Plymouth_Reliant_K_LE.png/400px-1985-89_Plymouth_Reliant_K_LE.png",
@@ -1170,7 +1170,7 @@
       "transmission": "Manual",
       "seats": "2 Seats",
       "rating": 3,
-      "fuel-type": "Diesel"
+      "fueltype": "Diesel"
     },
     {
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/1978_chevette.JPG/400px-1978_chevette.JPG",
@@ -1181,7 +1181,7 @@
       "transmission": "Manual",
       "seats": "2 Seats",
       "rating": 4.5,
-      "fuel-type": "Petrol"
+      "fueltype": "Petrol"
     },
     {
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Seat_Leon_1.4_TSI_Start%26Stop_Style_%28III%29_%E2%80%93_Frontansicht%2C_10._August_2013%2C_Ratingen.jpg/400px-Seat_Leon_1.4_TSI_Start%26Stop_Style_%28III%29_%E2%80%93_Frontansicht%2C_10._August_2013%2C_Ratingen.jpg",
@@ -1191,7 +1191,7 @@
       "transmission": "Manual",
       "seats": "2 Seats",
       "rating": 4.5,
-      "fuel-type": "Petrol"
+      "fueltype": "Petrol"
     },
     {
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Chevrolet_Corsica_1994.jpg/400px-Chevrolet_Corsica_1994.jpg",
@@ -1202,7 +1202,7 @@
       "transmission": "Manual",
       "seats": "2 Seats",
       "rating": 4.5,
-      "fuel-type": "Petrol"
+      "fueltype": "Petrol"
     },
     {
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/1992_MX3_V6_24V.jpg/400px-1992_MX3_V6_24V.jpg",
@@ -1213,7 +1213,7 @@
       "transmission": "Manual",
       "seats": "2 Seats",
       "rating": 4.5,
-      "fuel-type": "Diesel"
+      "fueltype": "Diesel"
     },
     {
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/2000_TVR_Tuscan_4.0_Speed_Six_by_The_Car_Spy.jpg/400px-2000_TVR_Tuscan_4.0_Speed_Six_by_The_Car_Spy.jpg",
@@ -1224,7 +1224,7 @@
       "transmission": "Manual",
       "seats": "2 Seats",
       "rating": 4.5,
-      "fuel-type": "Petrol"
+      "fueltype": "Petrol"
     },
     {
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Aston_Martin_DB9_coupe_02.jpg/400px-Aston_Martin_DB9_coupe_02.jpg",
@@ -1235,7 +1235,7 @@
       "transmission": "Manual",
       "seats": "2 Seats",
       "rating": 4.5,
-      "fuel-type": "Diesel"
+      "fueltype": "Diesel"
     },
     {
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Pontiac_Catalina_front.jpg/400px-Pontiac_Catalina_front.jpg",
@@ -1246,7 +1246,7 @@
       "transmission": "Manual",
       "seats": "2 Seats",
       "rating": 4.5,
-      "fuel-type": "Petrol"
+      "fueltype": "Petrol"
     },
     {
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Oldsmobile_Toronado_0003.jpg/400px-Oldsmobile_Toronado_0003.jpg",
@@ -1257,7 +1257,7 @@
       "transmission": "Manual",
       "seats": "2 Seats",
       "rating": 4.5,
-      "fuel-type": "Petrol"
+      "fueltype": "Petrol"
     },
     {
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Chrysler_Cirrus_--_01-27-2012.jpg/400px-Chrysler_Cirrus_--_01-27-2012.jpg",
@@ -1268,7 +1268,7 @@
       "transmission": "Manual",
       "seats": "2 Seats",
       "rating": 4.5,
-      "fuel-type": "Diesel"
+      "fueltype": "Diesel"
     },
     {
       "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/VW_Corrado_-_standard.jpg/400px-VW_Corrado_-_standard.jpg",
@@ -1279,7 +1279,7 @@
       "transmission": "Manual",
       "seats": "2 Seats",
       "rating": 4.5,
-      "fuel-type": "Petrol"
+      "fueltype": "Petrol"
     },
     {
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Mercedes_R_350_CDI_4MATIC_Lang_%28V251%29_Facelift_front_20101017.jpg/400px-Mercedes_R_350_CDI_4MATIC_Lang_%28V251%29_Facelift_front_20101017.jpg",
@@ -1289,7 +1289,7 @@
       "transmission": "Manual",
       "seats": "2 Seats",
       "rating": 4.5,
-      "fuel-type": "Petrol"
+      "fueltype": "Petrol"
     },
     {
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Volvo_V50_1.6_D.jpg/400px-Volvo_V50_1.6_D.jpg",
@@ -1300,7 +1300,7 @@
       "transmission": "Manual",
       "seats": "2 Seats",
       "rating": 4.5,
-      "fuel-type": "Diesel"
+      "fueltype": "Diesel"
     },
     {
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Audi_TT_Coup%C3%A9_2.0_TFSI_quattro_S-line_%288S%29_%E2%80%93_Frontansicht%2C_3._April_2015%2C_D%C3%BCsseldorf.jpg/400px-Audi_TT_Coup%C3%A9_2.0_TFSI_quattro_S-line_%288S%29_%E2%80%93_Frontansicht%2C_3._April_2015%2C_D%C3%BCsseldorf.jpg",
@@ -1310,7 +1310,7 @@
       "transmission": "Manual",
       "seats": "2 Seats",
       "rating": 4.5,
-      "fuel-type": "Petrol"
+      "fueltype": "Petrol"
     },
     {
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/VW_Touareg_Exclusive_V6_TDI_BlueMotion_Technology_%28II%29_%E2%80%93_Frontansicht%2C_3._Juli_2013%2C_M%C3%BCnster.jpg/400px-VW_Touareg_Exclusive_V6_TDI_BlueMotion_Technology_%28II%29_%E2%80%93_Frontansicht%2C_3._Juli_2013%2C_M%C3%BCnster.jpg",
@@ -1321,7 +1321,7 @@
       "transmission": "Manual",
       "seats": "2 Seats",
       "rating": 4.5,
-      "fuel-type": "Diesel",
+      "fueltype": "Diesel",
       "type": "SUV"
     },
     {
@@ -1333,7 +1333,7 @@
       "transmission": "Auto",
       "seats": "2 Seats",
       "rating": 4.5,
-      "fuel-type": "Petrol"
+      "fueltype": "Petrol"
     },
     {
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Cadillac_Cimarron_2_--_07-01-2009.jpg/400px-Cadillac_Cimarron_2_--_07-01-2009.jpg",
@@ -1344,7 +1344,7 @@
       "transmission": "Manual",
       "seats": "4 Seats",
       "rating": 4.2,
-      "fuel-type": "Diesel"
+      "fueltype": "Diesel"
     },
     {
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/1991_Daytona_CS.JPG/400px-1991_Daytona_CS.JPG",
@@ -1355,7 +1355,7 @@
       "transmission": "Auto",
       "seats": "2 Seats",
       "rating": 4.5,
-      "fuel-type": "Petrol"
+      "fueltype": "Petrol"
     },
     {
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Cadillac_Allante.jpg/400px-Cadillac_Allante.jpg",
@@ -1366,7 +1366,7 @@
       "transmission": "Manual",
       "seats": "2 Seats",
       "rating": 4.5,
-      "fuel-type": "Diesel"
+      "fueltype": "Diesel"
     },
     {
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Toyota_Avensis_III_20090706_front.JPG/400px-Toyota_Avensis_III_20090706_front.JPG",
@@ -1377,7 +1377,7 @@
       "transmission": "Manual",
       "seats": "4 Seats",
       "rating": 4.9,
-      "fuel-type": "Petrol"
+      "fueltype": "Petrol"
     },
 
     {
@@ -1389,7 +1389,7 @@
       "transmission": "Manual",
       "seats": "2 Seats",
       "rating": 4.5,
-      "fuel-type": "Diesel"
+      "fueltype": "Diesel"
     },
     {
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/96-98_Mercury_Villager_--_12-26-2009.jpg/400px-96-98_Mercury_Villager_--_12-26-2009.jpg",
@@ -1400,7 +1400,7 @@
       "transmission": "Auto",
       "seats": "2 Seats",
       "rating": 4.2,
-      "fuel-type": "Petrol"
+      "fueltype": "Petrol"
     },
     {
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Nissan350Z-01.jpg/400px-Nissan350Z-01.jpg",
@@ -1411,7 +1411,7 @@
       "transmission": "Manual",
       "seats": "2 Seats",
       "rating": 4.5,
-      "fuel-type": "Diesel"
+      "fueltype": "Diesel"
     },
     {
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Hummer_H2_black.JPG/400px-Hummer_H2_black.JPG",
@@ -1422,7 +1422,7 @@
       "transmission": "Auto",
       "seats": "4 Seats",
       "rating": 3.9,
-      "fuel-type": "Petrol",
+      "fueltype": "Petrol",
       "type": "SUV"
     },
     {
@@ -1434,7 +1434,7 @@
       "transmission": "Manual",
       "seats": "4 Seats",
       "rating": 4.2,
-      "fuel-type": "Diesel"
+      "fueltype": "Diesel"
     },
     {
       "image": "https://cdni.autocarindia.com/Utils/ImageResizer.ashx?n=https://cdni.autocarindia.com/ExtraImages/20220622122527_bmw_m3_touring_front_tracking.jpg&w=700&q=90&c=1",
@@ -1445,7 +1445,7 @@
       "transmission": "Auto",
       "seats": "4 Seats",
       "rating": 5,
-      "fuel-type": "Diesel",
+      "fueltype": "Diesel",
       "type": "Sedan"
     },
     {
@@ -1457,7 +1457,7 @@
       "transmission": "Auto",
       "seats": "2 Seats",
       "rating": 5,
-      "fuel-type": "Diesel",
+      "fueltype": "Diesel",
       "type": "Sedan"
     },
     {
@@ -1469,7 +1469,7 @@
       "transmission": "Auto",
       "seats": "2 Seats",
       "rating": 5,
-      "fuel-type": "Diesel",
+      "fueltype": "Diesel",
       "type": "Sedan"
     },
     {
@@ -1481,7 +1481,7 @@
       "transmission": "Auto",
       "seats": "2 Seats",
       "rating": 5,
-      "fuel-type": "Diesel",
+      "fueltype": "Diesel",
       "type": "Sedan"
     },
     {
@@ -1493,7 +1493,7 @@
       "transmission": "Auto",
       "seats": "2 Seats",
       "rating": 5,
-      "fuel-type": "Diesel",
+      "fueltype": "Diesel",
       "type": "Hatchback"
     }
   ],
