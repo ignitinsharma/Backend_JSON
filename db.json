@@ -1544,7 +1544,7 @@
     }
   ],
   "users": [],
-  "sneakers": [
+  "shoes": [
     {
       "box_condition": "good_condition",
       "brand_name": "Air Jordan",
@@ -1575,7 +1575,7 @@
       "release_date": "2018-04-14T23:59:59.000Z",
       "release_date_unix": 1523750399,
       "release_year": 2018,
-      "retail_price_cents": 16000,
+      "price_main": 16000,
       "shoe_condition": "used",
       "silhouette": "Air Jordan 1",
       "size_range": [
@@ -1611,7 +1611,7 @@
       "release_date": "2019-05-04T23:59:59.000Z",
       "release_date_unix": 1557014399,
       "release_year": 2019,
-      "retail_price_cents": 14000,
+      "price_main": 14000,
       "shoe_condition": "new_no_defects",
       "silhouette": "Air Jordan 4",
       "size_range": [3.5, 4, 4.5, 5, 5.5, 6, 6.5, 7],
@@ -1644,7 +1644,7 @@
       "release_date": "2016-12-09T23:59:59.000Z",
       "release_date_unix": 1481327999,
       "release_year": 2016,
-      "retail_price_cents": 22000,
+      "price_main": 22000,
       "shoe_condition": "used",
       "silhouette": "Air Jordan 11",
       "size_range": [
@@ -1680,7 +1680,7 @@
       "release_date": "2017-12-09T23:59:59.000Z",
       "release_date_unix": 1512863999,
       "release_year": 2017,
-      "retail_price_cents": 22000,
+      "price_main": 22000,
       "shoe_condition": "used",
       "silhouette": "Air Jordan 11",
       "size_range": [
@@ -1716,7 +1716,7 @@
       "release_date": "2014-12-20T23:59:59.000Z",
       "release_date_unix": 1419119999,
       "release_year": 2014,
-      "retail_price_cents": 20000,
+      "price_main": 20000,
       "shoe_condition": "used",
       "silhouette": "Air Jordan 11",
       "size_range": [
@@ -1757,7 +1757,7 @@
       "release_date": "2019-05-10T23:59:59.000Z",
       "release_date_unix": 1557532799,
       "release_year": 2019,
-      "retail_price_cents": 16000,
+      "price_main": 16000,
       "shoe_condition": "new_no_defects",
       "silhouette": "Air Jordan 1",
       "size_range": [
@@ -1793,7 +1793,7 @@
       "release_date": null,
       "release_date_unix": null,
       "release_year": null,
-      "retail_price_cents": 11000,
+      "price_main": 11000,
       "shoe_condition": "new_with_defects",
       "silhouette": "Air Jordan 1",
       "size_range": [
@@ -1857,7 +1857,7 @@
       "release_date": "2019-05-04T23:59:59.000Z",
       "release_date_unix": 1557014399,
       "release_year": 2019,
-      "retail_price_cents": 20000,
+      "price_main": 20000,
       "shoe_condition": "new_no_defects",
       "silhouette": "Air Jordan 4",
       "size_range": [
@@ -1898,7 +1898,7 @@
       "release_date": "2019-02-16T23:59:59.000Z",
       "release_date_unix": 1550361599,
       "release_year": 2019,
-      "retail_price_cents": 20000,
+      "price_main": 20000,
       "shoe_condition": "used",
       "silhouette": "Air Jordan 6",
       "size_range": [
@@ -1934,7 +1934,7 @@
       "release_date": "2019-05-17T07:00:00.000Z",
       "release_date_unix": 1558076400,
       "release_year": 2019,
-      "retail_price_cents": 19000,
+      "price_main": 19000,
       "shoe_condition": "new_no_defects",
       "silhouette": "Air Jordan 12",
       "size_range": [
@@ -1970,7 +1970,7 @@
       "release_date": "2019-01-19T23:59:59.000Z",
       "release_date_unix": 1547942399,
       "release_year": 2019,
-      "retail_price_cents": 20000,
+      "price_main": 20000,
       "shoe_condition": "used",
       "silhouette": "Air Jordan 4",
       "size_range": [
@@ -2014,7 +2014,7 @@
       "release_date": "2018-05-23T23:59:59.000Z",
       "release_date_unix": 1527119999,
       "release_year": 2018,
-      "retail_price_cents": 19000,
+      "price_main": 19000,
       "shoe_condition": "used",
       "silhouette": "Air Jordan 1",
       "size_range": [
@@ -2050,7 +2050,7 @@
       "release_date": "2019-05-18T07:00:00.000Z",
       "release_date_unix": 1558162800,
       "release_year": 2019,
-      "retail_price_cents": 20000,
+      "price_main": 20000,
       "shoe_condition": "new_no_defects",
       "silhouette": "Air Jordan 5",
       "size_range": [
@@ -2091,7 +2091,7 @@
       "release_date": "2018-06-09T23:59:59.000Z",
       "release_date_unix": 1528588799,
       "release_year": 2018,
-      "retail_price_cents": 22500,
+      "price_main": 22500,
       "shoe_condition": "used",
       "silhouette": "Air Jordan 4",
       "size_range": [
@@ -2131,7 +2131,7 @@
       "release_date": "2018-11-17T23:59:59.000Z",
       "release_date_unix": 1542499199,
       "release_year": 2018,
-      "retail_price_cents": 16000,
+      "price_main": 16000,
       "shoe_condition": "used",
       "silhouette": "Air Jordan 1",
       "size_range": [
@@ -2195,7 +2195,7 @@
       "release_date": "2019-05-11T23:59:59.000Z",
       "release_date_unix": 1557619199,
       "release_year": 2019,
-      "retail_price_cents": 16000,
+      "price_main": 16000,
       "shoe_condition": "new_no_defects",
       "silhouette": "Air Jordan 1",
       "size_range": [
@@ -2231,7 +2231,7 @@
       "release_date": "2019-05-18T07:00:00.000Z",
       "release_date_unix": 1558162800,
       "release_year": 2019,
-      "retail_price_cents": 20000,
+      "price_main": 20000,
       "shoe_condition": "new_no_defects",
       "silhouette": "Air Jordan 7",
       "size_range": [
@@ -2271,7 +2271,7 @@
       "release_date": "2019-02-15T23:59:59.000Z",
       "release_date_unix": 1550275199,
       "release_year": 2019,
-      "retail_price_cents": 16000,
+      "price_main": 16000,
       "shoe_condition": "used",
       "silhouette": "Air Jordan 1",
       "size_range": [
@@ -2307,7 +2307,7 @@
       "release_date": "2019-04-12T23:59:59.000Z",
       "release_date_unix": 1555113599,
       "release_year": 2019,
-      "retail_price_cents": 16000,
+      "price_main": 16000,
       "shoe_condition": "new_no_defects",
       "silhouette": "Air Jordan 1",
       "size_range": [
@@ -2343,7 +2343,7 @@
       "release_date": "2019-05-07T07:00:00.000Z",
       "release_date_unix": 1557212400,
       "release_year": 2019,
-      "retail_price_cents": 18500,
+      "price_main": 18500,
       "shoe_condition": "used",
       "silhouette": "Air Jordan 11",
       "size_range": [
@@ -2402,7 +2402,7 @@
       "release_date": "2019-05-25T07:00:00.000Z",
       "release_date_unix": 1558767600,
       "release_year": 2019,
-      "retail_price_cents": 17500,
+      "price_main": 17500,
       "shoe_condition": "new_no_defects",
       "silhouette": "Air Jordan 1",
       "size_range": [
@@ -2445,7 +2445,7 @@
       "release_date": "2018-02-24T23:59:59.000Z",
       "release_date_unix": 1519516799,
       "release_year": 2018,
-      "retail_price_cents": 16000,
+      "price_main": 16000,
       "shoe_condition": "used",
       "silhouette": "Air Jordan 1",
       "size_range": [
@@ -2486,7 +2486,7 @@
       "release_date": "2018-12-14T23:59:59.000Z",
       "release_date_unix": 1544831999,
       "release_year": 2018,
-      "retail_price_cents": 16000,
+      "price_main": 16000,
       "shoe_condition": "used",
       "silhouette": "Air Jordan 1",
       "size_range": [
@@ -2522,7 +2522,7 @@
       "release_date": "2018-11-23T23:59:59.000Z",
       "release_date_unix": 1543017599,
       "release_year": 2018,
-      "retail_price_cents": 19000,
+      "price_main": 19000,
       "shoe_condition": "used",
       "silhouette": "Air Jordan 12",
       "size_range": [
@@ -2558,7 +2558,7 @@
       "release_date": "2019-05-18T07:00:00.000Z",
       "release_date_unix": 1558162800,
       "release_year": 2019,
-      "retail_price_cents": 18500,
+      "price_main": 18500,
       "shoe_condition": "new_no_defects",
       "silhouette": "Air Jordan 11",
       "size_range": [
@@ -2617,7 +2617,7 @@
       "release_date": "2019-05-25T07:00:00.000Z",
       "release_date_unix": 1558767600,
       "release_year": 2019,
-      "retail_price_cents": null,
+      "price_main": null,
       "shoe_condition": "new_no_defects",
       "silhouette": "Air Jordan 1",
       "size_range": [
@@ -2653,7 +2653,7 @@
       "release_date": "2019-03-30T23:59:59.000Z",
       "release_date_unix": 1553990399,
       "release_year": 2019,
-      "retail_price_cents": 16000,
+      "price_main": 16000,
       "shoe_condition": "used",
       "silhouette": "Air Jordan 1",
       "size_range": [
@@ -2689,7 +2689,7 @@
       "release_date": "2019-05-10T07:00:00.000Z",
       "release_date_unix": 1557471600,
       "release_year": 2019,
-      "retail_price_cents": 10000,
+      "price_main": 10000,
       "shoe_condition": "new_no_defects",
       "silhouette": "Air Jordan 1",
       "size_range": [
@@ -2725,7 +2725,7 @@
       "release_date": "2018-10-27T23:59:59.000Z",
       "release_date_unix": 1540684799,
       "release_year": 2018,
-      "retail_price_cents": 22000,
+      "price_main": 22000,
       "shoe_condition": "used",
       "silhouette": "Air Jordan 11",
       "size_range": [
@@ -2766,7 +2766,7 @@
       "release_date": "2018-12-08T23:59:59.000Z",
       "release_date_unix": 1544313599,
       "release_year": 2018,
-      "retail_price_cents": 22000,
+      "price_main": 22000,
       "shoe_condition": "used",
       "silhouette": "Air Jordan 11",
       "size_range": [
@@ -2802,7 +2802,7 @@
       "release_date": "2019-04-19T23:59:59.000Z",
       "release_date_unix": 1555718399,
       "release_year": 2019,
-      "retail_price_cents": 18500,
+      "price_main": 18500,
       "shoe_condition": "used",
       "silhouette": "Air Jordan 11",
       "size_range": [
@@ -2838,7 +2838,7 @@
       "release_date": "2016-02-13T08:00:00.000Z",
       "release_date_unix": 1455350400,
       "release_year": 2016,
-      "retail_price_cents": 22000,
+      "price_main": 22000,
       "shoe_condition": "used",
       "silhouette": "Air Jordan 4",
       "size_range": [
@@ -2874,7 +2874,7 @@
       "release_date": null,
       "release_date_unix": null,
       "release_year": null,
-      "retail_price_cents": 10000,
+      "price_main": 10000,
       "shoe_condition": "new_no_defects",
       "silhouette": "Rally Pro",
       "size_range": [
@@ -2915,7 +2915,7 @@
       "release_date": "2018-11-26T23:59:59.000Z",
       "release_date_unix": 1543276799,
       "release_year": 2018,
-      "retail_price_cents": 10000,
+      "price_main": 10000,
       "shoe_condition": "new_no_defects",
       "silhouette": "Chuck 70",
       "size_range": [
@@ -2957,7 +2957,7 @@
       "release_date": "2015-05-14T23:59:59.000Z",
       "release_date_unix": 1431647999,
       "release_year": 2015,
-      "retail_price_cents": 12000,
+      "price_main": 12000,
       "shoe_condition": "used",
       "silhouette": "Chuck Taylor All Star",
       "size_range": [
@@ -2993,7 +2993,7 @@
       "release_date": null,
       "release_date_unix": null,
       "release_year": null,
-      "retail_price_cents": 21000,
+      "price_main": 21000,
       "shoe_condition": "used",
       "silhouette": "Gucci Slide",
       "size_range": [
@@ -3029,7 +3029,7 @@
       "release_date": "2019-05-16T07:00:00.000Z",
       "release_date_unix": 1557990000,
       "release_year": 2019,
-      "retail_price_cents": 13000,
+      "price_main": 13000,
       "shoe_condition": "new_no_defects",
       "silhouette": "Kyrie 5",
       "size_range": [
@@ -3065,7 +3065,7 @@
       "release_date": "2019-04-13T07:00:00.000Z",
       "release_date_unix": 1555138800,
       "release_year": 2019,
-      "retail_price_cents": 20000,
+      "price_main": 20000,
       "shoe_condition": "used",
       "silhouette": "Air Max 97",
       "size_range": [
@@ -3109,7 +3109,7 @@
       "release_date": "2019-05-17T07:00:00.000Z",
       "release_date_unix": 1558076400,
       "release_year": 2019,
-      "retail_price_cents": 19000,
+      "price_main": 19000,
       "shoe_condition": "new_no_defects",
       "silhouette": "Air Fear Of God Strap",
       "size_range": [
@@ -3152,7 +3152,7 @@
       "release_date": "2019-02-07T23:59:59.000Z",
       "release_date_unix": 1549583999,
       "release_year": 2019,
-      "retail_price_cents": 16000,
+      "price_main": 16000,
       "shoe_condition": "new_no_defects",
       "silhouette": "Air Max 90",
       "size_range": [
@@ -3195,7 +3195,7 @@
       "release_date": "2018-07-27T23:59:59.000Z",
       "release_date_unix": 1532735999,
       "release_year": 2018,
-      "retail_price_cents": 16000,
+      "price_main": 16000,
       "shoe_condition": "used",
       "silhouette": "Air Presto",
       "size_range": [
@@ -3256,7 +3256,7 @@
       "release_date": "2019-05-30T07:00:00.000Z",
       "release_date_unix": 1559199600,
       "release_year": 2019,
-      "retail_price_cents": 18000,
+      "price_main": 18000,
       "shoe_condition": "new_no_defects",
       "silhouette": "LDV Waffle",
       "size_range": [
@@ -3292,7 +3292,7 @@
       "release_date": "2019-05-03T07:00:00.000Z",
       "release_date_unix": 1556866800,
       "release_year": 2019,
-      "retail_price_cents": 11000,
+      "price_main": 11000,
       "shoe_condition": "new_no_defects",
       "silhouette": "Blazer",
       "size_range": [
@@ -3334,7 +3334,7 @@
       "release_date": "2019-04-05T07:00:00.000Z",
       "release_date_unix": 1554447600,
       "release_year": 2019,
-      "retail_price_cents": 16000,
+      "price_main": 16000,
       "shoe_condition": "used",
       "silhouette": "Air Max 2 Light",
       "size_range": [
@@ -3378,7 +3378,7 @@
       "release_date": "2017-12-16T23:59:59.000Z",
       "release_date_unix": 1513468799,
       "release_year": 2017,
-      "retail_price_cents": 22000,
+      "price_main": 22000,
       "shoe_condition": "used",
       "silhouette": "Yeezy Boost 350",
       "size_range": [
@@ -3414,7 +3414,7 @@
       "release_date": "2019-05-03T07:00:00.000Z",
       "release_date_unix": 1556866800,
       "release_year": 2019,
-      "retail_price_cents": 25000,
+      "price_main": 25000,
       "shoe_condition": "new_no_defects",
       "silhouette": "NMD Human Race Trail",
       "size_range": [
@@ -3478,7 +3478,7 @@
       "release_date": "2019-04-27T23:59:59.000Z",
       "release_date_unix": 1556409599,
       "release_year": 2019,
-      "retail_price_cents": 30000,
+      "price_main": 30000,
       "shoe_condition": "new_no_defects",
       "silhouette": "Yeezy Boost 700",
       "size_range": [
@@ -3538,7 +3538,7 @@
       "release_date": "2019-05-25T23:59:59.000Z",
       "release_date_unix": 1558828799,
       "release_year": 2019,
-      "retail_price_cents": 22000,
+      "price_main": 22000,
       "shoe_condition": "new_no_defects",
       "silhouette": "Yeezy Boost 350",
       "size_range": [
@@ -3580,7 +3580,7 @@
       "release_date": "2017-11-25T23:59:59.000Z",
       "release_date_unix": 1511654399,
       "release_year": 2017,
-      "retail_price_cents": 22000,
+      "price_main": 22000,
       "shoe_condition": "used",
       "silhouette": "Yeezy Boost 350",
       "size_range": [
