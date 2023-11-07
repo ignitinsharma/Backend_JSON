@@ -25,6 +25,7 @@
     "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
     "location": "Online",
     "prerequisites": ["Basic JavaScript knowledge", "Familiarity with React"],
+        "progress": 40,
     "syllabus": [
       {
         "week": 1,
@@ -61,6 +62,7 @@
     "schedule": "Mondays and Wednesdays, 5:00 PM - 7:00 PM",
     "location": "Online",
     "prerequisites": ["No prior experience required"],
+    "progress": 20,
     "syllabus": [
       {
         "week": 1,
@@ -97,6 +99,7 @@
     "schedule": "Tuesdays and Thursdays, 7:00 PM - 9:00 PM",
     "location": "Online",
     "prerequisites": ["Basic programming knowledge"],
+    "progress": 50,
     "syllabus": [
       {
         "week": 1,
@@ -133,6 +136,7 @@
     "schedule": "Mondays and Wednesdays, 6:30 PM - 8:30 PM",
     "location": "Online",
     "prerequisites": ["No prior design experience required"],
+    "progress": 60,
     "syllabus": [
       {
         "week": 1,
@@ -169,6 +173,7 @@
     "schedule": "Saturdays, 10:00 AM - 12:00 PM",
     "location": "Online",
     "prerequisites": ["No prior programming experience required"],
+    "progress": 90,
     "syllabus": [
       {
         "week": 1,
@@ -205,6 +210,7 @@
     "schedule": "Tuesdays and Thursdays, 6:30 PM - 8:30 PM",
     "location": "Online",
     "prerequisites": ["Basic programming knowledge"],
+    "progress": 20,
     "syllabus": [
       {
         "week": 1,
@@ -241,6 +247,7 @@
     "schedule": "Mondays and Wednesdays, 7:00 PM - 9:00 PM",
     "location": "Online",
     "prerequisites": ["No prior marketing experience required"],
+    "progress": 95,
     "syllabus": [
       {
         "week": 1,
@@ -277,6 +284,7 @@
     "schedule": "Saturdays, 2:00 PM - 4:00 PM",
     "location": "Online",
     "prerequisites": ["Basic programming knowledge"],
+    "progress": 45,
     "syllabus": [
       {
         "week": 1,
