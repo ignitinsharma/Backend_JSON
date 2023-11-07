@@ -13,7 +13,333 @@
     }
   ],
   "hotels": [],
-  "demo2": [],
+  "courses": [
+      {
+    "id": 1,
+    "name": "Introduction to React Native",
+    "instructor": "John Doe",
+    "description": "Learn the basics of React Native development and build your first mobile app.",
+    "enrollmentStatus": "Open",
+    "thumbnail": "https://www.sastrainingindelhi.com/wp-content/uploads/2021/05/data-science-training-gurgaon.jpg",
+    "duration": "8 weeks",
+    "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+    "location": "Online",
+    "prerequisites": ["Basic JavaScript knowledge", "Familiarity with React"],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "Introduction to React Native",
+        "content": "Overview of React Native, setting up your development environment."
+      },
+      {
+        "week": 2,
+        "topic": "Building Your First App",
+        "content": "Creating a simple mobile app using React Native components."
+      }
+    ],
+    "students": [
+      {
+        "id": 101,
+        "name": "Alice Johnson",
+        "email": "alice@example.com"
+      },
+      {
+        "id": 102,
+        "name": "Bob Smith",
+        "email": "bob@example.com"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Web Development Fundamentals",
+    "instructor": "Jane Smith",
+    "description": "Learn the basics of web development and create your first website.",
+    "enrollmentStatus": "Closed",
+    "thumbnail": "https://www.sastrainingindelhi.com/wp-content/uploads/2021/05/data-science-training-gurgaon.jpg",
+    "duration": "6 weeks",
+    "schedule": "Mondays and Wednesdays, 5:00 PM - 7:00 PM",
+    "location": "Online",
+    "prerequisites": ["No prior experience required"],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "Introduction to HTML",
+        "content": "Learn the fundamentals of HTML and create a basic web page."
+      },
+      {
+        "week": 2,
+        "topic": "CSS Styling",
+        "content": "Explore CSS for styling web pages."
+      }
+    ],
+    "students": [
+      {
+        "id": 103,
+        "name": "Charlie Brown",
+        "email": "charlie@example.com"
+      },
+      {
+        "id": 104,
+        "name": "David Davis",
+        "email": "david@example.com"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Data Science Fundamentals",
+    "instructor": "Ella White",
+    "description": "Explore the world of data science and learn data analysis techniques.",
+    "enrollmentStatus": "Open",
+    "thumbnail": "https://www.sastrainingindelhi.com/wp-content/uploads/2021/05/data-science-training-gurgaon.jpg",
+    "duration": "10 weeks",
+    "schedule": "Tuesdays and Thursdays, 7:00 PM - 9:00 PM",
+    "location": "Online",
+    "prerequisites": ["Basic programming knowledge"],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "Introduction to Data Science",
+        "content": "Overview of data science and its applications."
+      },
+      {
+        "week": 2,
+        "topic": "Data Analysis with Python",
+        "content": "Learn data analysis using Python and libraries like Pandas."
+      }
+    ],
+    "students": [
+      {
+        "id": 105,
+        "name": "Emma Green",
+        "email": "emma@example.com"
+      },
+      {
+        "id": 106,
+        "name": "Frank Johnson",
+        "email": "frank@example.com"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Mobile App Design",
+    "instructor": "Oliver Black",
+    "description": "Learn the principles of mobile app design and create user-friendly interfaces.",
+    "enrollmentStatus": "Open",
+    "thumbnail": "https://www.sastrainingindelhi.com/wp-content/uploads/2021/05/data-science-training-gurgaon.jpg",
+    "duration": "6 weeks",
+    "schedule": "Mondays and Wednesdays, 6:30 PM - 8:30 PM",
+    "location": "Online",
+    "prerequisites": ["No prior design experience required"],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "User Interface Design",
+        "content": "Understanding UI design principles and best practices."
+      },
+      {
+        "week": 2,
+        "topic": "Wireframing and Prototyping",
+        "content": "Creating wireframes and prototypes for mobile apps."
+      }
+    ],
+    "students": [
+      {
+        "id": 107,
+        "name": "Grace Adams",
+        "email": "grace@example.com"
+      },
+      {
+        "id": 108,
+        "name": "Henry Davis",
+        "email": "henry@example.com"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "JavaScript for Beginners",
+    "instructor": "Sophia Lee",
+    "description": "Start your journey into web development with JavaScript basics.",
+    "enrollmentStatus": "Open",
+    "thumbnail": "https://www.sastrainingindelhi.com/wp-content/uploads/2021/05/data-science-training-gurgaon.jpg",
+    "duration": "4 weeks",
+    "schedule": "Saturdays, 10:00 AM - 12:00 PM",
+    "location": "Online",
+    "prerequisites": ["No prior programming experience required"],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "Introduction to JavaScript",
+        "content": "Basics of JavaScript, variables, and data types."
+      },
+      {
+        "week": 2,
+        "topic": "Control Flow and Functions",
+        "content": "Learn about conditional statements, loops, and functions."
+      }
+    ],
+    "students": [
+      {
+        "id": 109,
+        "name": "Isabella White",
+        "email": "isabella@example.com"
+      },
+      {
+        "id": 110,
+        "name": "Jack Smith",
+        "email": "jack@example.com"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Artificial Intelligence Fundamentals",
+    "instructor": "Liam Wilson",
+    "description": "Explore the world of AI and its applications in various fields.",
+    "enrollmentStatus": "Open",
+    "thumbnail": "https://www.sastrainingindelhi.com/wp-content/uploads/2021/05/data-science-training-gurgaon.jpg",
+    "duration": "12 weeks",
+    "schedule": "Tuesdays and Thursdays, 6:30 PM - 8:30 PM",
+    "location": "Online",
+    "prerequisites": ["Basic programming knowledge"],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "Introduction to AI",
+        "content": "Overview of artificial intelligence and its history."
+      },
+      {
+        "week": 2,
+        "topic": "Machine Learning Basics",
+        "content": "Introduction to machine learning algorithms and techniques."
+      }
+    ],
+    "students": [
+      {
+        "id": 111,
+        "name": "Katie Martin",
+        "email": "katie@example.com"
+      },
+      {
+        "id": 112,
+        "name": "Leo Johnson",
+        "email": "leo@example.com"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Digital Marketing Essentials",
+    "instructor": "Mia Clark",
+    "description": "Learn the fundamentals of digital marketing and online advertising.",
+    "enrollmentStatus": "Open",
+    "thumbnail": "https://www.sastrainingindelhi.com/wp-content/uploads/2021/05/data-science-training-gurgaon.jpg",
+    "duration": "8 weeks",
+    "schedule": "Mondays and Wednesdays, 7:00 PM - 9:00 PM",
+    "location": "Online",
+    "prerequisites": ["No prior marketing experience required"],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "Introduction to Digital Marketing",
+        "content": "Overview of digital marketing channels and strategies."
+      },
+      {
+        "week": 2,
+        "topic": "Social Media Marketing",
+        "content": "Effective use of social media for marketing purposes."
+      }
+    ],
+    "students": [
+      {
+        "id": 113,
+        "name": "Noah Thomas",
+        "email": "noah@example.com"
+      },
+      {
+        "id": 114,
+        "name": "Olivia Smith",
+        "email": "olivia@example.com"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Python Programming for Data Science",
+    "instructor": "William Brown",
+    "description": "Learn Python and its applications in data science and analysis.",
+    "enrollmentStatus": "Closed",
+    "thumbnail": "https://www.sastrainingindelhi.com/wp-content/uploads/2021/05/data-science-training-gurgaon.jpg",
+    "duration": "10 weeks",
+    "schedule": "Saturdays, 2:00 PM - 4:00 PM",
+    "location": "Online",
+    "prerequisites": ["Basic programming knowledge"],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "Python Basics",
+        "content": "Introduction to Python and its syntax."
+      },
+      {
+        "week": 2,
+        "topic": "Data Analysis with Python",
+        "content": "Using Python for data analysis and visualization."
+      }
+    ],
+    "students": [
+      {
+        "id": 115,
+        "name": "Sophia Davis",
+        "email": "sophia@example.com"
+      },
+      {
+        "id": 116,
+        "name": "Thomas Johnson",
+        "email": "thomas@example.com"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "UI/UX Design Principles",
+    "instructor": "Ethan Smith",
+    "description": "Learn user interface and user experience design principles.",
+    "enrollmentStatus": "Open",
+    "thumbnail": "https://www.sastrainingindelhi.com/wp-content/uploads/2021/05/data-science-training-gurgaon.jpg",
+    "duration": "8 weeks",
+    "schedule": "Tuesdays and Thursdays, 5:00 PM - 7:00 PM",
+    "location": "Online",
+    "prerequisites": ["No prior design experience required"],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "User-Centered Design",
+        "content": "Understanding the importance of user-centered design."
+      },
+      {
+        "week": 2,
+        "topic": "Wireframing and Prototyping",
+        "content": "Creating wireframes and prototypes for user-friendly interfaces."
+      }
+    ],
+    "students": [
+      {
+        "id": 117,
+        "name": "Violet Wilson",
+        "email": "violet@example.com"
+      },
+      {
+        "id": 118,
+        "name": "William Martin",
+        "email": "william@example.com"
+      }
+    ]
+  }
+  ],
+  
   "images": [
     {
       "id": 1,
